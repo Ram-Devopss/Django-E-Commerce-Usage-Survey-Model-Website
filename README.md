@@ -61,9 +61,9 @@ Screenshots:
 • 🔍 **Detailed Analysis** – Explore in-depth visual analysis of customer behavior trends, powered by **Amazon.in datasets**.  
 • 📂 **Screenshots Directory** – All graphical images of data plots are available in the "Screenshots" folder within the repository.
 
-| ![Survey Results](./Screenshots/survey_results.png) | ![Usage Trends](./Screenshots/usage_trends.png) |
-|:--------------------------------------------------:|:----------------------------------------------:|
-| Survey Results Plot                                | Usage Trends Plot                             |
+| ![Survey Results](./Screenshots/Figure_1.png) |
+|:--------------------------------------------------:
+| Survey Results Plot                                
 
 (Ensure the images are placed in the `Screenshots` directory and the links point to the correct image files.)
 
